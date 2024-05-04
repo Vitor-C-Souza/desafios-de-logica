@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8800aff-1a0a-451d-a520-fa1e09ab6c3b" name="Changes" comment="Desafios desenvolvidos e concluídos.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positivo ou negativo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculandoArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparandoNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parOuImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/positivoOuNegativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tabuada.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2g0YC4DY31uWsO4g46438rL98xZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.calculandoArea.executor": "Run",
+    "Application.comparandoNumeros.executor": "Run",
+    "Application.fatorial.executor": "Run",
+    "Application.parOuImpar.executor": "Run",
+    "Application.positivoOuNegativo.executor": "Run",
+    "Application.tabuada.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.calculandoArea">
+    <configuration name="calculandoArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculandoArea" />
+      <module name="positivo ou negativo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="comparandoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comparandoNumeros" />
+      <module name="positivo ou negativo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fatorial" />
+      <module name="positivo ou negativo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parOuImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parOuImpar" />
+      <module name="positivo ou negativo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tabuada" />
+      <module name="positivo ou negativo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.calculandoArea" />
+        <item itemvalue="Application.fatorial" />
+        <item itemvalue="Application.parOuImpar" />
+        <item itemvalue="Application.tabuada" />
+        <item itemvalue="Application.comparandoNumeros" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8800aff-1a0a-451d-a520-fa1e09ab6c3b" name="Changes" comment="" />
+      <created>1714835836046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714835836046</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Desafios desenvolvidos e concluídos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios desenvolvidos e concluídos." />
+  </component>
+</project>
